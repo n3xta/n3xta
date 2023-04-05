@@ -16,7 +16,7 @@ I'm currently in the exploration phase and my goal is to learn as many computing
 
 Please feel free to check out my repositories and follow my progress
 
-[![Nexta's stats](https://github-readme-stats.vercel.app/api?username=mukirkland&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Nexta's stats](https://github-readme-stats.vercel.app/api?username=mukirkland&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical&card_width=580px)
 
 # <img src="https://raw.githubusercontent.com/mukirkland/file-host/main/images/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313634333531353437382f31343939332f6d757369635f6c6576656c2e6769663f31363433353135343738.gif" width="3%" height="3%"> "You have good taste in music"
 I listen to Hardcore Tano*C/Megarex/Diverse System/Lilium Records. My favorite composer is Lapix.
