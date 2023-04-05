@@ -1,1 +1,1 @@
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=40276893&title=Recently&nbsp;into...&show_percent=1&number=10&column=2)](https://netease-recent-profile.vercel.app/?id=40276893&title=Recently&nbsp;into...&show_percent=1&number=10&column=2)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=40276893&title=Recently&nbsp;into...&show_percent=1&number=8&column=2)](https://netease-recent-profile.vercel.app/?id=40276893&title=Recently&nbsp;into...&show_percent=1&number=8&column=2)
