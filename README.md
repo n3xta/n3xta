@@ -1,13 +1,13 @@
 # Being a noob
 
-I currently consider myself a noob and my goal is to learn as many computing related skills as possible. Willing to create interesting and cool projects along the way. 
+I currently consider myself a noob and my goal is to learn as many computing related skills as possible. I am very willing to create interesting and cool projects along the way. 
 
 **A little bit about me:**
 
 - 🏫 I'm an IB Diploma Year 1 student in Shanghai, China
 - 🎯 My dream university is Carnegie Mellon University, so I'm working hard to get there
 - 🌍 I want to connect with other awesome coders and share my experiences
-- 🎨 I am also an art student, currently working on my arts portfolio
+- 🎨 I study visual arts, and I am currently working on my arts portfolio
 
 **My plan for this year:**
 
