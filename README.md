@@ -1,6 +1,6 @@
 # Being a noob
 
-I'm currently in the exploration phase and my goal is to learn as many computing related skills as possible this year. I'm also really excited about creating interesting and cool projects along the way. 
+I currently consider myself a noob and my goal is to learn as many computing related skills as possible. Willing to create interesting and cool projects along the way. 
 
 **A little bit about me:**
 
