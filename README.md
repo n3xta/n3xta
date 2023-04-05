@@ -1,6 +1,6 @@
 # Being a noob
 
-I'm currently in the exploration phase and my goal is to learn as many programming languages as possible this year. I'm also really excited about creating interesting and cool projects along the way. 
+I'm currently in the exploration phase and my goal is to learn as many computing related skills as possible this year. I'm also really excited about creating interesting and cool projects along the way. 
 
 **A little bit about me:**
 
@@ -14,7 +14,7 @@ I'm currently in the exploration phase and my goal is to learn as many programmi
 - 💻 Build fun and creative projects to show off my skills
 - 🌟 Collaborate with other developers and contribute to open-source projects
 
-Feel free to check out my repositories and follow my progress!
+Please feel free to check out my repositories and follow my progress
 
 [![Nexta's stats](https://github-readme-stats.vercel.app/api?username=mukirkland&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
