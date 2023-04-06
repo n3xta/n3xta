@@ -4,16 +4,15 @@ I currently consider myself a noob and my goal is to learn as many computing rel
 
 **A little bit about me:**
 
-- 🏫 I'm an IB Diploma Year 1 student in Shanghai, China
-- 🎯 My dream university is Carnegie Mellon University, so I'm working hard to get there
-- 🌍 I want to connect with other awesome coders and share my experiences
-- 🎨 I study visual arts, and I am currently working on my arts portfolio
+- I'm an IB Diploma Year 1 student in Shanghai, China
+- My dream university is Carnegie Mellon University, so I'm working hard to get there
+- I study visual arts, currently working on my arts portfolio
 
 **My plan for this year:**
 
-- 📚 Learn multiple programming languages like Python, JavaScript, and C++
-- 💻 Build fun and creative projects
-- 🌟 Collaborate with other developers and contribute to open-source projects
+- Learn multiple programming languages like Python, JavaScript, and C++
+- Build fun and creative projects
+- Collaborate with other developers and contribute to open-source projects
 
 Please feel free to check out my repositories and follow my progress
 
