@@ -6,7 +6,7 @@ I currently consider myself a noob and my goal is to learn as many computing rel
 
 - I'm an IB Diploma Year 1 student in Shanghai, China
 - My dream university is Carnegie Mellon University, so I'm working hard to get there
-- Other fields: I study visual arts and I'm currently working on my arts portfolio
+- Other fields: I study visual arts and I'm working on my arts portfolio
 
 **My plan for this year:**
 
