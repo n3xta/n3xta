@@ -1,6 +1,6 @@
-# Being a noob
+# On my Learning Journey
 
-I currently consider myself a noob and my goal is to learn as many computing related skills as possible. I am very willing to create interesting and cool projects along the way. 
+My goal is to learn as many computing-related skills as possible & create interesting and cool projects along the way. 
 
 **A little bit about me:**
 
@@ -15,7 +15,6 @@ I currently consider myself a noob and my goal is to learn as many computing rel
 
 Please feel free to check out my repositories and follow my progress
 
-[![Nexta's stats](https://github-readme-stats.vercel.app/api?username=mukirkland&theme=radical&card_width=580px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical&card_width=580px)](https://github.com/anuraghazra/github-readme-stats)
 
 # <img src="https://raw.githubusercontent.com/mukirkland/file-host/main/images/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313634333531353437382f31343939332f6d757369635f6c6576656c2e6769663f31363433353135343738.gif" width="3%" height="3%"> "You have good taste in music"
