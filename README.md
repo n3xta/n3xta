@@ -1,6 +1,4 @@
-# On my Learning Journey
-
-My goal is to learn as many computing-related skills as possible & create interesting and cool projects along the way. 
+My goal is to learn as many computing-related skills as possible & create interesting and cool projects along the way.
 
 **A little bit about me:**
 
