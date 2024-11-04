@@ -12,4 +12,4 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 <img src="https://raw.githubusercontent.com/n3xta/image-hosting/main/img/202411032331174.png"/>
 
-> ***java, as in javaScript***
+***java, as in javaScript***
