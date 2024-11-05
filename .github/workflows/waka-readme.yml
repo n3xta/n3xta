@@ -23,7 +23,7 @@ jobs:
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ▙▚▘
+          BLOCKS: >=
           CODE_LANG: txt
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
