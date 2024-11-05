@@ -11,6 +11,6 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/n3xta/image-hosting/main/img/202411032331174.png"/>
-My README is underconstruction. Here is a joke for you:
+My README is under construction. Here is a joke for you:
 
 *my favorite language is java, as in javaScript* 
