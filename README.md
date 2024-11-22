@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 24 hrs 50 mins
+Total Time: 23 hrs 34 mins
 
-Markdown          19 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>=====   79.04 %
-JavaScript        1 hr 13 mins    >========================   04.90 %
-Less              55 mins         >========================   03.67 %
-INI               52 mins         >========================   03.51 %
-CSS               36 mins         >========================   02.44 %
+Markdown          17 hrs 50 mins  >>>>>>>>>>>>>>>>>>>======   74.92 %
+JavaScript        1 hr 33 mins    >>=======================   06.52 %
+Less              55 mins         >========================   03.86 %
+INI               52 mins         >========================   03.70 %
+CSS               39 mins         >========================   02.74 %
 ```
 
 <!--END_SECTION:waka-->
