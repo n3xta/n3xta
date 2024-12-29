@@ -1,11 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2024 - To: 27 December 2024
+From: 21 December 2024 - To: 28 December 2024
 
-Total Time: 1 hr 50 mins
+Total Time: 2 hrs 35 mins
 
-Markdown   1 hr 50 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown     1 hr 52 mins    >>>>>>>>>>>>>>>>>>=======   72.80 %
+Vue.js       35 mins         >>>>>>===================   22.84 %
+JSON         6 mins          >========================   04.06 %
+JavaScript   0 secs          =========================   00.25 %
+TypeScript   0 secs          =========================   00.05 %
 ```
 
 <!--END_SECTION:waka-->
