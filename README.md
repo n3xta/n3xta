@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Total Time: 10 hrs 43 mins
+Total Time: 8 hrs 34 mins
 
-JavaScript   5 hrs 53 mins   >>>>>>>>>>>>>>===========   55.01 %
-HTML         2 hrs 34 mins   >>>>>>===================   23.97 %
-CSS          1 hr 37 mins    >>>>=====================   15.11 %
-Markdown     37 mins         >========================   05.82 %
-JSON         0 secs          =========================   00.07 %
+JavaScript   5 hrs 43 mins   >>>>>>>>>>>>>>>>>========   66.83 %
+Markdown     1 hr 21 mins    >>>>=====================   15.75 %
+HTML         50 mins         >>=======================   09.81 %
+CSS          38 mins         >>=======================   07.50 %
+JSON         0 secs          =========================   00.08 %
 ```
 
 <!--END_SECTION:waka-->
