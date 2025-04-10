@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 3 hrs 3 mins
+Total Time: 2 hrs 16 mins
 
-JavaScript          1 hr 8 mins     >>>>>>>>>================   37.15 %
-Dart                1 hr            >>>>>>>>=================   33.15 %
-Markdown            48 mins         >>>>>>>==================   26.52 %
-Bash                3 mins          =========================   01.74 %
-Gradle Kotlin DSL   1 min           =========================   00.90 %
+Dart                1 hr            >>>>>>>>>>>==============   44.55 %
+JavaScript          57 mins         >>>>>>>>>>>==============   42.32 %
+Markdown            13 mins         >>>======================   10.17 %
+EJS                 2 mins          =========================   01.59 %
+Gradle Kotlin DSL   1 min           =========================   01.21 %
 ```
 
 <!--END_SECTION:waka-->
