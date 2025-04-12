@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
 Total Time: 1 hr 14 mins
 
-Dart                1 hr            >>>>>>>>>>>>>>>>>>>>=====   81.66 %
-JavaScript          9 mins          >>>======================   13.12 %
-EJS                 2 mins          >========================   02.91 %
-Gradle Kotlin DSL   1 min           >========================   02.21 %
+Dart                1 hr            >>>>>>>>>>>>>>>>>>>>=====   81.98 %
+JavaScript          9 mins          >>>======================   12.78 %
+EJS                 2 mins          >========================   02.92 %
+Gradle Kotlin DSL   1 min           >========================   02.22 %
 YAML                0 secs          =========================   00.10 %
 ```
 
