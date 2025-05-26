@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
-Total Time: 1 hr 31 mins
+Total Time: 2 hrs 33 mins
 
-Markdown     1 hr 17 mins    >>>>>>>>>>>>>>>>>>=======   71.48 %
-Other        17 mins         >>>>=====================   15.92 %
-TypeScript   8 mins          >>=======================   07.58 %
-Git Config   5 mins          >========================   04.68 %
-Bash         0 secs          =========================   00.34 %
+Markdown     1 hr 17 mins    >>>>>>>>>>>==============   45.40 %
+TypeScript   1 hr 10 mins    >>>>>>>>>>===============   41.31 %
+Other        17 mins         >>>======================   10.11 %
+Git Config   5 mins          >========================   02.97 %
+Bash         0 secs          =========================   00.21 %
 ```
 
 <!--END_SECTION:waka-->
