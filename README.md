@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Total Time: 37 mins
+Total Time: 24 mins
 
-TypeScript   21 mins         >>>>>>>>>>>>>>===========   57.62 %
-Markdown     15 mins         >>>>>>>>>>===============   41.48 %
-Other        0 secs          =========================   00.90 %
+TypeScript   21 mins         >>>>>>>>>>>>>>>>>>>>>>===   86.63 %
+Markdown     3 mins          >>>======================   12.02 %
+Other        0 secs          =========================   01.36 %
 ```
 
 <!--END_SECTION:waka-->
