@@ -1,14 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 25 June 2025 - To: 02 July 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 1 hr 7 mins
 
-GLSL         45 mins         >>>>>>>>>>>>>>>>=========   64.58 %
-TypeScript   21 mins         >>>>>>>>=================   30.68 %
-Markdown     3 mins          >========================   04.26 %
-Other        0 secs          =========================   00.48 %
+GLSL         45 mins         >>>>>>>>>>>>>>>>>========   67.79 %
+TypeScript   21 mins         >>>>>>>>=================   32.21 %
 ```
 
 <!--END_SECTION:waka-->
