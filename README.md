@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Total Time: 4 hrs 25 mins
+Total Time: 7 hrs 33 mins
 
-Python       1 hr 46 mins    >>>>>>>>>>===============   39.93 %
-TypeScript   1 hr 5 mins     >>>>>>===================   24.56 %
-Markdown     47 mins         >>>>=====================   17.74 %
-Text         33 mins         >>>======================   12.66 %
-Git Config   12 mins         >========================   04.89 %
+Python       4 hrs 43 mins   >>>>>>>>>>>>>>>>=========   62.60 %
+TypeScript   1 hr 5 mins     >>>>=====================   14.37 %
+Markdown     50 mins         >>>======================   11.06 %
+Text         39 mins         >>=======================   08.82 %
+Git Config   13 mins         >========================   03.01 %
 ```
 
 <!--END_SECTION:waka-->
