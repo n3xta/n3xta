@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2025 - To: 11 July 2025
+From: 05 July 2025 - To: 12 July 2025
 
-Total Time: 7 hrs 40 mins
+Total Time: 8 hrs 5 mins
 
-Python       5 hrs 55 mins   >>>>>>>>>>>>>>>>>>>======   77.14 %
-Markdown     50 mins         >>>======================   10.91 %
-Text         40 mins         >>=======================   08.73 %
-Git Config   13 mins         >========================   02.97 %
-PowerShell   0 secs          =========================   00.11 %
+Python       5 hrs 55 mins   >>>>>>>>>>>>>>>>>>=======   73.04 %
+Markdown     1 hr 4 mins     >>>======================   13.26 %
+Text         40 mins         >>=======================   08.27 %
+Git Config   13 mins         >========================   02.81 %
+CSS          8 mins          =========================   01.65 %
 ```
 
 <!--END_SECTION:waka-->
