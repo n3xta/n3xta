@@ -16,3 +16,5 @@ XML                 6 mins          >========================   02.28 %
 
 <img src="https://raw.githubusercontent.com/n3xta/image-hosting/main/img/202411032331174.png"/>
 My README is under construction. 
+
+<embed src="http://n3xta.com" style="width:500px; height: 300px;">
