@@ -1,15 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2025 - To: 23 July 2025
+From: 17 July 2025 - To: 24 July 2025
 
-Total Time: 3 hrs 51 mins
+Total Time: 2 hrs 34 mins
 
-Markdown     1 hr 31 mins    >>>>>>>>>>===============   39.46 %
-Dart         1 hr 26 mins    >>>>>>>>>================   37.56 %
-TypeScript   19 mins         >>=======================   08.30 %
-JSON         13 mins         >>=======================   06.05 %
-TSConfig     13 mins         >========================   05.72 %
+Dart       1 hr 17 mins    >>>>>>>>>>>>>============   50.17 %
+Markdown   1 hr 15 mins    >>>>>>>>>>>>=============   48.76 %
+XML        1 min           =========================   01.07 %
 ```
 
 <!--END_SECTION:waka-->
