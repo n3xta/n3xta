@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2025 - To: 24 July 2025
+From: 18 July 2025 - To: 25 July 2025
 
-Total Time: 2 hrs 34 mins
+Total Time: 58 mins
 
-Dart       1 hr 17 mins    >>>>>>>>>>>>>============   50.17 %
-Markdown   1 hr 15 mins    >>>>>>>>>>>>=============   48.76 %
-XML        1 min           =========================   01.07 %
+Markdown   58 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
