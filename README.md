@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 1 hr 5 mins
+Total Time: 1 hr 4 mins
 
-Git Config   32 mins         >>>>>>>>>>>>=============   49.67 %
-Dart         24 mins         >>>>>>>>>================   37.96 %
-Markdown     8 mins          >>>======================   12.29 %
+Git Config   32 mins         >>>>>>>>>>>>>============   50.30 %
+Dart         24 mins         >>>>>>>>>>===============   38.44 %
+Markdown     7 mins          >>>======================   11.19 %
 Other        0 secs          =========================   00.08 %
 ```
 
