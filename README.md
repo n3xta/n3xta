@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
-Total Time: 2 hrs 55 mins
+Total Time: 3 hrs 24 mins
 
-TypeScript   2 hrs 2 mins    >>>>>>>>>>>>>>===========   54.46 %
-Other        49 mins         >>>>>====================   21.91 %
-Dart         47 mins         >>>>>====================   20.97 %
-Git Config   5 mins          >========================   02.64 %
-XML          0 secs          =========================   00.02 %
+TypeScript   2 hrs 30 mins   >>>>>>>>>>>>>>>==========   59.53 %
+Other        49 mins         >>>>>====================   19.44 %
+Dart         47 mins         >>>>>====================   18.61 %
+Git Config   6 mins          >========================   02.38 %
+CSS          0 secs          =========================   00.03 %
 ```
 
 <!--END_SECTION:waka-->
