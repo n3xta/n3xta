@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 4 hrs 38 mins
+Total Time: 4 hrs 49 mins
 
-Dart                1 hr 50 mins    >>>>>>>>>>===============   39.42 %
-JavaScript          50 mins         >>>>=====================   17.98 %
-Python              32 mins         >>>======================   11.68 %
-TypeScript          29 mins         >>>======================   10.37 %
-CSS                 13 mins         >========================   04.90 %
+Dart                1 hr 50 mins    >>>>>>>>>================   37.91 %
+JavaScript          50 mins         >>>>=====================   17.29 %
+TypeScript          40 mins         >>>======================   13.80 %
+Python              32 mins         >>>======================   11.23 %
+CSS                 13 mins         >========================   04.71 %
 ```
 
 <!--END_SECTION:waka-->
