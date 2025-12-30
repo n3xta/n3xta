@@ -1,15 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 28 December 2025
+From: 22 December 2025 - To: 29 December 2025
 
-Total Time: 2 hrs 43 mins
+Total Time: 1 hr 30 mins
 
-Dart         1 hr 31 mins    >>>>>>>>>>>>>>===========   56.21 %
-Markdown     52 mins         >>>>>>>>=================   32.49 %
-JavaScript   14 mins         >>=======================   08.86 %
-JSON         2 mins          =========================   01.73 %
-YAML         1 min           =========================   00.65 %
+Dart       1 hr 14 mins    >>>>>>>>>>>>>>>>>>>>=====   81.88 %
+Markdown   15 mins         >>>>=====================   17.23 %
+YAML       0 secs          =========================   00.88 %
+Other      0 secs          =========================   00.01 %
 ```
 
 <!--END_SECTION:waka-->
