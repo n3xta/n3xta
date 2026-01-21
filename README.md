@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-Total Time: 7 mins
+Total Time: 11 mins
 
-CSS          2 mins          >>>>>>>>>>===============   41.73 %
-TypeScript   2 mins          >>>>>>>>>================   34.98 %
-Git Config   0 secs          >>>======================   11.45 %
-XML          0 secs          >>=======================   07.27 %
-Dart         0 secs          >========================   02.78 %
+Dart         4 mins          >>>>>>>>>>===============   38.09 %
+CSS          2 mins          >>>>>>>==================   26.57 %
+TypeScript   2 mins          >>>>>>===================   22.27 %
+Git Config   0 secs          >>=======================   07.29 %
+XML          0 secs          >========================   04.63 %
 ```
 
 <!--END_SECTION:waka-->
