@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 01 February 2026
+From: 26 January 2026 - To: 02 February 2026
 
-Total Time: 2 hrs 53 mins
+Total Time: 3 hrs 33 mins
 
-Markdown     1 hr 30 mins    >>>>>>>>>>>>=============   46.69 %
-TypeScript   33 mins         >>>>=====================   17.24 %
-C#           25 mins         >>>======================   12.99 %
-Dart         24 mins         >>>======================   12.44 %
-Other        19 mins         >>>======================   10.29 %
+Markdown        1 hr 30 mins    >>>>>>>>>================   34.92 %
+Other           45 mins         >>>>=====================   17.49 %
+Unity3D Asset   37 mins         >>>>=====================   14.29 %
+TypeScript      33 mins         >>>======================   12.89 %
+C#              27 mins         >>>======================   10.66 %
 ```
 
 <!--END_SECTION:waka-->
