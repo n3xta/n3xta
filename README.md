@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Total Time: 6 hrs 16 mins
+Total Time: 5 hrs 8 mins
 
-TypeScript      1 hr 47 mins    >>>>>>===================   24.42 %
-Markdown        1 hr 21 mins    >>>>>====================   18.45 %
-Other           1 hr 5 mins     >>>>=====================   14.83 %
-Python          52 mins         >>>======================   11.83 %
-Unity3D Asset   37 mins         >>=======================   08.37 %
+TypeScript      1 hr 47 mins    >>>>>>>==================   28.85 %
+Other           1 hr 5 mins     >>>>=====================   17.52 %
+Python          52 mins         >>>======================   13.99 %
+Unity3D Asset   37 mins         >>=======================   09.90 %
+HTML            28 mins         >>=======================   07.59 %
 ```
 
 <!--END_SECTION:waka-->
